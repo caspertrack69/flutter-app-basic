@@ -72,7 +72,7 @@ class _BottomNavbarWidgetState extends State<BottomNavbarWidget> {
             activeIcon: Container(
               padding: const EdgeInsets.all(10),
               decoration: const BoxDecoration(
-                color: Colors.grey,
+                color: Colors.blue,
                 borderRadius: BorderRadius.all(Radius.circular(14)),
               ),
               child: SvgPicture.asset(
